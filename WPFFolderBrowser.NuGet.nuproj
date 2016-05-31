@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <VSActiveSolutionRoot Condition=" '$(VSActiveSolutionRoot)' == ''">$(VSDirSolutionAlphaFS)</VSActiveSolutionRoot>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|AnyCPU">
+      <Configuration>Debug</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|AnyCPU">
+      <Configuration>Release</Configuration>
+      <Platform>AnyCPU</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="$(NuProjName).nuspec" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="$(NuProjName).csproj" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>cdb921da-ef7d-44db-a969-97ddbb9ba3d9</ProjectGuid>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NuProjPath Condition=" '$(NuProjPath)' == '' ">$(MSBuildExtensionsPath)\NuProj\</NuProjPath>
+  </PropertyGroup>
+  <Import Project="$(NuProjPath)\NuProj.props" Condition="Exists('$(NuProjPath)\NuProj.props')" />
+  <Import Project="$(NuProjPath)\NuProj.Extended.props" Condition="Exists('$(NuProjPath)\NuProj.Extended.props')" />
+  <PropertyGroup Label="Configuration">
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <NuSpecTemplate>$(NuProjName).nuspec</NuSpecTemplate>
+    <EmbedSourceFiles>true</EmbedSourceFiles>
+    <Id>$(NuProjName).Signed</Id>
+    <Repository>ThirdParty</Repository>
+    <ApiKey>VSTS</ApiKey>
+    <Version>$version$</Version>
+    <PublishPackage>Never</PublishPackage>
+    <OutputPath>$(Source)\Nuget\Repositories\$(Repository)\$(NuProjName)</OutputPath>
+    <NuSpecProperties>
+    </NuSpecProperties>
+    <Title>&lt;nuspec&gt;</Title>
+    <Authors>&lt;nuspec&gt;</Authors>
+    <Owners>&lt;nuspec&gt;</Owners>
+    <Description>&lt;nuspec&gt;</Description>
+  </PropertyGroup>
+  <Import Project="$(NuProjPath)\NuProj.targets" />
+</Project>

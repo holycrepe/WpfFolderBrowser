@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+   <metadata>
+      <id>$id$</id>
+      <version>$version$</version>
+      <title>WPF Folder Browser (Signed)</title>
+      <authors></authors>
+      <owners></owners>
+      <licenseUrl>https://github.com/holycrepe/WpfFolderBrowser/blob/master/LICENSE.md</licenseUrl>
+      <projectUrl>https://github.com/holycrepe/WpfFolderBrowser/</projectUrl>
+      <iconUrl>https://github.com/holycrepe/WpfFolderBrowser/raw/master/NuGet.png</iconUrl>
+      <requireLicenseAcceptance>false</requireLicenseAcceptance>
+      <description>WPF Folder Browser (Signed)</description>
+      <releaseNotes>Initial commit.</releaseNotes>
+      <copyright></copyright>
+      <tags>Win32</tags>
+   </metadata>
+</package>

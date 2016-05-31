@@ -13,8 +13,8 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyCopyright("Copyright © Microsoft 2006 / parts hbarck 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
-[assembly: InternalsVisibleTo("VistaBridgeTests")]
-[assembly: InternalsVisibleTo("VistaBridgeControls")]
+//[assembly: InternalsVisibleTo("VistaBridgeTests")]
+//[assembly: InternalsVisibleTo("VistaBridgeControls")]
 
 #if DEBUG
 [assembly: AssemblyConfiguration("Debug")]
@@ -53,11 +53,11 @@ using System.Runtime.InteropServices;
 // Revision: the number of two second intervals since midnight in local time; i.e. 31308 =  17:23:36 local time.
 
 // Specifies the version of the assembly being attributed.
-[assembly: AssemblyVersion("1.1.*")]
+[assembly: AssemblyVersion("1.2.*")]
 
 // Instructs a compiler to use a specific version number for the Win32 file version resource.
 // The Win32 file version is not required to be the same as the assembly's version number.
-[assembly: AssemblyFileVersion("1.1")]
+[assembly: AssemblyFileVersion("1.2")]
 
 // Defines additional version information for an assembly manifest.
-[assembly: AssemblyInformationalVersion("1.1")]
+[assembly: AssemblyInformationalVersion("1.2")]
