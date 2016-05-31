@@ -11,17 +11,17 @@ If you comply with these license terms, you have the rights below.
 1. INSTALLATION AND USE RIGHTS.  You may install and use any number of copies of the software on your devices.
 2. ADDITIONAL LICENSING REQUIREMENTS AND/OR USE RIGHTS.
 a. Distributable Code.  The software contains code that you are permitted to distribute in programs you develop if you comply with the terms below.
-i. Right to Use and Distribute.  The code and text files listed below are ìDistributable Code.î
-* Sample Code.  You may modify, copy, and distribute the source and object code form of code marked as ìsample.î
+i. Right to Use and Distribute.  The code and text files listed below are ‚ÄúDistributable Code.‚Äù
+* Sample Code.  You may modify, copy, and distribute the source and object code form of code marked as ‚Äúsample.‚Äù
 * Third Party Distribution.  You may permit distributors of your programs to copy and distribute the Distributable Code as part of those programs.
 ii. Distribution Requirements.  For any Distributable Code you distribute, you must
 * add significant primary functionality to it in your programs;
 * require distributors and external end users to agree to terms that protect it at least as much as this agreement; 
 * display your valid copyright notice on your programs; and
-* indemnify, defend, and hold harmless Microsoft from any claims, including attorneysí fees, related to the distribution or use of your programs.
+* indemnify, defend, and hold harmless Microsoft from any claims, including attorneys‚Äô fees, related to the distribution or use of your programs.
 iii. Distribution Restrictions.  You may not
 * alter any copyright, trademark or patent notice in the Distributable Code; 
-* use Microsoftís trademarks in your programsí names or in a way that suggests your programs come from or are endorsed by Microsoft; 
+* use Microsoft‚Äôs trademarks in your programs‚Äô names or in a way that suggests your programs come from or are endorsed by Microsoft; 
 * distribute Distributable Code to run on a platform other than the Windows platform;
 * include Distributable Code in malicious, deceptive or unlawful programs; or
 * modify or distribute the source code of any Distributable Code so that any part of it becomes subject to an Excluded License.  An Excluded License is one that requires, as a condition of use, modification or distribution, that
@@ -36,24 +36,24 @@ iii. Distribution Restrictions.  You may not
 4. BACKUP COPY.  You may make one backup copy of the software.  You may use it only to reinstall the software.
 5. DOCUMENTATION.  Any person that has valid access to your computer or internal network may copy and use the documentation for your internal, reference purposes.
 6. EXPORT RESTRICTIONS.  The software is subject to United States export laws and regulations.  You must comply with all domestic and international export laws and regulations that apply to the software.  These laws include restrictions on destinations, end users and end use.  For additional information, see www.microsoft.com/exporting.
-7. SUPPORT SERVICES. Because this software is ìas is,î we may not provide support services for it.
+7. SUPPORT SERVICES. Because this software is ‚Äúas is,‚Äù we may not provide support services for it.
 8. ENTIRE AGREEMENT.  This agreement, and the terms for supplements, updates, Internet-based services and support services that you use, are the entire agreement for the software and support services.
 9. APPLICABLE LAW.
 a. United States.  If you acquired the software in the United States, Washington state law governs the interpretation of this agreement and applies to claims for breach of it, regardless of conflict of laws principles.  The laws of the state where you live govern all other claims, including claims under state consumer protection laws, unfair competition laws, and in tort.
 b. Outside the United States.  If you acquired the software in any other country, the laws of that country apply.
 10. LEGAL EFFECT.  This agreement describes certain legal rights.  You may have other rights under the laws of your country.  You may also have rights with respect to the party from whom you acquired the software.  This agreement does not change your rights under the laws of your country if the laws of your country do not permit it to do so.
-11. DISCLAIMER OF WARRANTY.   The software is licensed ìas-is.î  You bear the risk of using it.  Microsoft gives no express warranties, guarantees or conditions.  You may have additional consumer rights under your local laws which this agreement cannot change.  To the extent permitted under your local laws, Microsoft excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
+11. DISCLAIMER OF WARRANTY.   The software is licensed ‚Äúas-is.‚Äù  You bear the risk of using it.  Microsoft gives no express warranties, guarantees or conditions.  You may have additional consumer rights under your local laws which this agreement cannot change.  To the extent permitted under your local laws, Microsoft excludes the implied warranties of merchantability, fitness for a particular purpose and non-infringement.
 12. LIMITATION ON AND EXCLUSION OF REMEDIES AND DAMAGES.   You can recover from Microsoft and its suppliers only direct damages up to U.S. $5.00.  You cannot recover any other damages, including consequential, lost profits, special, indirect or incidental damages.
 This limitation applies to
 * anything related to the software, services, content (including code) on third party Internet sites, or third party programs; and
 * claims for breach of contract, breach of warranty, guarantee or condition, strict liability, negligence, or other tort to the extent permitted by applicable law.
 It also applies even if Microsoft knew or should have known about the possibility of the damages.  The above limitation or exclusion may not apply to you because your country may not allow the exclusion or limitation of incidental, consequential or other damages.
 Please note: As this software is distributed in Quebec, Canada, some of the clauses in this agreement are provided below in French.
-Remarque : Ce logiciel Ètant distribuÈ au QuÈbec, Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en franÁais.
-EXON…RATION DE GARANTIE. Le logiciel visÈ par une licence est offert ´ tel quel ª. Toute utilisation de ce logiciel est ‡ votre seule risque et pÈril. Microsoft níaccorde aucune autre garantie expresse. Vous pouvez bÈnÈficier de droits additionnels en vertu du droit local sur la protection des consommateurs, que ce contrat ne peut modifier. La ou elles sont permises par le droit locale, les garanties implicites de qualitÈ marchande, díadÈquation ‡ un usage particulier et díabsence de contrefaÁon sont exclues.
-LIMITATION DES DOMMAGES-INT…R TS ET EXCLUSION DE RESPONSABILIT… POUR LES DOMMAGES.  Vous pouvez obtenir de Microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement ‡ hauteur de 5,00 $ US. Vous ne pouvez prÈtendre ‡ aucune indemnisation pour les autres dommages, y compris les dommages spÈciaux, indirects ou accessoires et pertes de bÈnÈfices.
+Remarque : Ce logiciel √©tant distribu√© au Qu√©bec, Canada, certaines des clauses dans ce contrat sont fournies ci-dessous en fran√ßais.
+EXON√âRATION DE GARANTIE. Le logiciel vis√© par une licence est offert ¬´ tel quel ¬ª. Toute utilisation de ce logiciel est √† votre seule risque et p√©ril. Microsoft n‚Äôaccorde aucune autre garantie expresse. Vous pouvez b√©n√©ficier de droits additionnels en vertu du droit local sur la protection des consommateurs, que ce contrat ne peut modifier. La ou elles sont permises par le droit locale, les garanties implicites de qualit√© marchande, d‚Äôad√©quation √† un usage particulier et d‚Äôabsence de contrefa√ßon sont exclues.
+LIMITATION DES DOMMAGES-INT√âR√äTS ET EXCLUSION DE RESPONSABILIT√â POUR LES DOMMAGES.  Vous pouvez obtenir de Microsoft et de ses fournisseurs une indemnisation en cas de dommages directs uniquement √† hauteur de 5,00 $ US. Vous ne pouvez pr√©tendre √† aucune indemnisation pour les autres dommages, y compris les dommages sp√©ciaux, indirects ou accessoires et pertes de b√©n√©fices.
 Cette limitation concerne :
-* tout  ce qui est reliÈ au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des programmes tiers ; et
-* les rÈclamations au titre de violation de contrat ou de garantie, ou au titre de responsabilitÈ stricte, de nÈgligence ou díune autre faute dans la limite autorisÈe par la loi en vigueur.
-Elle síapplique Ègalement, mÍme si Microsoft connaissait ou devrait connaÓtre líÈventualitÈ díun tel dommage.  Si votre pays níautorise pas líexclusion ou la limitation de responsabilitÈ pour les dommages indirects, accessoires ou de quelque nature que ce soit, il se peut que la limitation ou líexclusion ci-dessus ne síappliquera pas ‡ votre Ègard.
-EFFET JURIDIQUE.  Le prÈsent contrat dÈcrit certains droits juridiques. Vous pourriez avoir díautres droits prÈvus par les lois de votre pays.  Le prÈsent contrat ne modifie pas les droits que vous confËrent les lois de votre pays si celles-ci ne le permettent pas.
+* tout  ce qui est reli√© au logiciel, aux services ou au contenu (y compris le code) figurant sur des sites Internet tiers ou dans des programmes tiers ; et
+* les r√©clamations au titre de violation de contrat ou de garantie, ou au titre de responsabilit√© stricte, de n√©gligence ou d‚Äôune autre faute dans la limite autoris√©e par la loi en vigueur.
+Elle s‚Äôapplique √©galement, m√™me si Microsoft connaissait ou devrait conna√Ætre l‚Äô√©ventualit√© d‚Äôun tel dommage.  Si votre pays n‚Äôautorise pas l‚Äôexclusion ou la limitation de responsabilit√© pour les dommages indirects, accessoires ou de quelque nature que ce soit, il se peut que la limitation ou l‚Äôexclusion ci-dessus ne s‚Äôappliquera pas √† votre √©gard.
+EFFET JURIDIQUE.  Le pr√©sent contrat d√©crit certains droits juridiques. Vous pourriez avoir d‚Äôautres droits pr√©vus par les lois de votre pays.  Le pr√©sent contrat ne modifie pas les droits que vous conf√®rent les lois de votre pays si celles-ci ne le permettent pas.
